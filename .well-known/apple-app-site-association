@@ -1,0 +1,22 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "TEAMID.com.study.noz.auth.auth03"
+        ],
+        "components": [
+          {
+            "/": "/authapp/deeplink/*",
+            "comment": "アプリ内ディープリンク用に予約したパス配下すべてにマッチ"
+          }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "TEAMID.com.study.noz.auth.auth03"
+    ]
+  }
+}
