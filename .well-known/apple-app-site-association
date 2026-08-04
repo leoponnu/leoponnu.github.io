@@ -3,7 +3,7 @@
     "details": [
       {
         "appIDs": [
-          "TEAMID.com.study.noz.auth.auth03"
+          "QAEH2D55QK.com.study.noz.auth.auth03"
         ],
         "components": [
           {
@@ -16,7 +16,7 @@
   },
   "webcredentials": {
     "apps": [
-      "TEAMID.com.study.noz.auth.auth03"
+      "QAEH2D55QK.com.study.noz.auth.auth03"
     ]
   }
 }
